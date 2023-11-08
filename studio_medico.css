@@ -1,0 +1,118 @@
+body {
+    background-color: rgb(240, 246, 253);
+    background-color: transparent;
+    
+    
+}
+p {
+    margin: 0;
+    background:  rgb(208, 222, 237); 		
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+ h1 {
+    font-weight: bold;
+    font-size: 80px;	
+    text-align: center;	
+    
+    }
+    .bold{
+        color: rgb(18, 17, 19);
+        font-style: italic;
+        
+    }
+    .main{
+        text-align: center;
+        font-size: 50px;
+    }
+    img{
+        position: relative
+        left 450px;
+    }
+    #c1{
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 60px;
+        background-color: rgb(208, 222, 237);
+        height: 600px;
+      }
+      #c2{
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-size: 40px;
+        font-style: italic;
+       
+    
+       } 
+       div{
+        background-color: rgb(208, 222, 237);
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: medium;
+       }
+       #c3{
+        font-size: x-large;
+        color: rgb(15, 15, 15);
+       }
+       .content{
+        font-style: italic;
+        font-weight: 80px;
+        font: optional;
+        font-family: cursive;
+       }
+/* Style all font awesome icons */
+.fa {
+    padding: 10px;
+    font-size: 50px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  /* Add a hover effect if you want */
+  .fa:hover {
+    opacity: 0.7;
+  }
+  
+  /* Set a specific color for each brand */
+  
+  /* Facebook */
+  .fa-facebook {
+    background: #d2d2ef;
+    color:blue
+  }
+  
+  /* Twitter */
+  .fa-twitter {
+    background: #d2d2ef;
+    color: rgb(18, 114, 127)
+  }
+  .fa-youtube{
+    background: #d2d2ef;
+    color: red;
+  }
+
+
+  a:href {
+    color: rgb(13, 224, 213);
+    background-color: transparent;
+    text-decoration: none;
+
+}
+a:visited {
+    color: rgb(7, 128, 78);
+    background-color: transparent;
+    text-decoration: none;
+    
+
+    }
+    
+a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  
